@@ -1,1 +1,1 @@
-## Tict application
+## Tickt application
