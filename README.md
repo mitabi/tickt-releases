@@ -1,3 +1,4 @@
+[![downloads](https://img.shields.io/github/downloads/mitabi/tickt-releases/total?label=Total%20downloads)](https://github.com/mitabi/tickt-releases)
 # Tickt — Prosty Tracker Czasu Pracy
 
 Aplikacja desktopowa do śledzenia czasu pracy, zarządzania projektami i rozliczania godzin z klientami.
